@@ -148,7 +148,4 @@ namespace ghost {
     }
 
     void* mov_site() { return g.mov; } uint8_t mov_len() { return g.mov_n; } uint8_t mov_dst() { return g.mov_r; }
-    
-   
-
 } 
